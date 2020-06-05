@@ -1,0 +1,444 @@
+html{
+
+	/*scroll-behavior:smooth;*/
+}
+/**********header**********/
+/**********header**********/
+.navbar{
+	background-color:black;
+}
+.navbar .navbar-nav .nav-link{
+	padding-right: 1.5rem;
+}
+
+
+
+
+/**********header**********/
+/**********header**********/
+
+/**********home-section slider**********/
+/**********home-section slider**********/
+.carousel .carousel-inner img{
+	height:500px;
+	width:100%;
+	background-color: black;
+	opacity: 0.8
+}
+.carousel-caption{
+	bottom:90px;
+}
+
+
+/**********home-section slider**********/
+/**********home-section slider**********/
+
+/**********Content section**********/
+/**********Content section**********/
+ .content-section .fas{
+	font-size:45px;
+}
+
+
+
+
+/**********Second Content section**********/
+/**********Second Content section**********/
+	.second-content-section{
+		background:linear-gradient(#000000a3,#000000a3),url(img/1.jpg) no-repeat;
+		background-attachment: fixed;
+		background-size:cover;
+		background-position:100% 0%;
+		position: relative;
+
+	}
+	.second-content-section .container{
+		padding:100px 0;
+	}
+
+
+
+/**********Second card section**********/
+/**********Second Card section**********/
+
+
+
+
+
+/**********Third section**********/
+/**********Third section**********/
+
+.Third-section .margin{
+	margin-top:80px;
+} 
+
+
+
+
+
+/**********Third section**********/
+/**********Third section**********/
+
+
+
+/**********Video section**********/
+/**********Video section**********/
+	.video-section{
+		background:linear-gradient(#000000b5,#000000b5),url(img/3.jpg) no-repeat;
+		background-attachment: fixed;
+		background-size:cover;
+		background-position: 100% 0%;
+
+	}
+
+	.video-section .fas{
+		font-size:40px;
+		color:red;
+	}
+	
+
+/**********Video section**********/
+/**********Video section**********/
+
+
+/**********LAst Content section**********/
+/**********Last content section**********/
+#last-section{
+	background-color:#343A40;
+}
+#last-section h2{
+	color:#fff;
+}
+
+/**********LAst Content section**********/
+/**********Last content section**********/
+
+/**********Fotter section**********/
+/**********Fotter section**********/
+#footer-section{
+	background-color:black;
+}
+
+/**********Fotter section**********/
+/**********Fotter section**********/
+
+
+
+
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+/**********ABOUT PAGE**********/
+
+
+
+/**********about-Home section**********/
+/**********about-Home section**********/
+#about-home-section{
+	background:linear-gradient(#0000007a,#0000007a),url(img/3.jpg) no-repeat;
+	background-attachment:fixed;
+	background-size:cover;
+	background-position:100% 0px;
+}
+#about-home-section .container{
+	padding:100px 0;
+}
+
+/**********about-Home section**********/
+/**********about-Home section**********/
+
+
+/**********about-content section**********/
+/**********about-content section**********/
+
+#about-content-section img{
+	width:350px;
+	height:350px;
+	margin-left:106px;
+}
+
+
+/**********about-content section**********/
+/**********about-content section**********/
+
+
+/**********about-card section**********/
+/**********about-card section**********/
+
+#about-card-section .card i{
+	font-size:50px;
+}
+
+
+
+/**********about-card section**********/
+/**********about-card section**********/
+
+/**********about-testimonial section**********/
+/**********about-testimonial section**********/
+
+#about-testimonial .slick-prev::before, .slick-next::before{
+	color:black;
+}
+#about-testimonial .slick-dots li button::before{
+	font-size:30px;
+}
+
+
+/**********about-testimonial section**********/
+/**********about-testimonial section**********/
+
+
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+/**********SERVICES PAGE**********/
+
+
+/**********Services-content-section**********/
+/**********Services-content-section**********/
+#services-content-section{
+	background:url(img/image3.jpeg) no-repeat;
+	background-position:center top;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+
+/**********Services-content-section**********/
+/**********Services-content-section**********/
+
+
+/**********Services-accordion-section**********/
+/**********Services-accordion-section**********/
+
+#services-accordion-section{
+	background-color:#343A40;
+}
+
+
+
+
+
+/**********Services-accordion-section**********/
+/**********Services-accordion-section**********/
+
+
+
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+
+
+
+/**********blog-content-section**********/
+/**********blog-content-section**********/
+#blog-content-section{
+	background:linear-gradient(#0000006b,#0000006b),url(img/1.jpg) no-repeat;
+	background-position:100% -180px;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+
+/**********blog-content-section**********/
+/**********blog-content-section**********/
+
+
+
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+/**********Blog PAGE**********/
+
+
+
+/**********contact-contact-section**********/
+/**********contact-contact-section**********/
+
+#contact-content-section{
+	background:linear-gradient(#0000006b,#0000006b),url(img/3.jpg) no-repeat;
+	background-position:100% -20px;
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+/**********contact-contact-section**********/
+/**********contact-contact-section**********/
+
+
+
+
+/**********MEDIA QURIES**********/
+/**********MEDIA QURIES**********/
+/**********MEDIA QURIES**********/
+/**********MEDIA QURIES**********/
+
+@media (max-width: 575px) {
+		.carousel .carousel-inner img{
+		height:400px;
+		width:100%;
+		background-color: black;
+		opacity: 0.8
+	}
+		.carousel-caption{
+		bottom:-10px;
+	}
+		.carousel .carousel-caption{
+		text-align: left;
+	}
+		.carousel .carousel-caption h1{
+		font-size:40px;
+	}
+		.carousel .carousel-caption p{
+		font-size:16px;
+	}
+		.Third-section .margin{
+		margin-top:0;
+	}
+		.Third-section .sm-sm{
+		margin-top:40px;
+	}
+
+	#last-section .text-center .form-inline .form-control{
+		
+		width: 100%;
+	 }
+	 #last-section .form-inline{
+	 	display:block;
+	 }
+
+	 #last-section .btn-primary {
+	    width: 100%;
+	    margin-top: 0px;
+	}
+
+	#home-section-slider{
+		display:none;
+	}
+	/**********about-content section**********/
+
+	#about-content-section img{
+	width:350px;
+	height:350px;
+	margin-left:0px;
+	margin-top:50px;
+	}
+
+	#about-testimonial .container{
+		width:80%;
+	}
+
+
+
+
+ }
+
+@media (min-width: 576px) and (max-width:767px) {
+			.carousel .carousel-inner img{
+		height:400px;
+		width:100%;
+		background-color: black;
+		opacity: 0.8
+	}
+		.carousel-caption{
+		bottom:-10px;
+	}
+		.carousel .carousel-caption{
+		text-align: left;
+	}
+		.carousel .carousel-caption h1{
+		font-size:40px;
+	}
+		.carousel .carousel-caption p{
+		font-size:16px;
+	}
+		.Third-section .margin{
+		margin-top:0;
+	}
+		.Third-section .sm-sm{
+		margin-top:40px;
+	}
+
+	#last-section .text-center .form-inline .form-control{
+		
+		width: 100%;
+	 }
+
+	 #last-section .btn-primary {
+	    width: 92%;
+	    margin-top: 15px;
+	}
+	/**********about-content section**********/
+
+	#about-content-section img{
+	width:350px;
+	height:350px;
+	margin-left:75px;
+	margin-top:50px;
+	}
+	/**********services-content section**********/
+
+}
+
+
+@media (min-width: 768px) and (max-width:991px) { 
+		.carousel .carousel-inner img{
+		height:400px;
+		width:100%;
+		background-color: black;
+		opacity: 0.8
+	}
+		.carousel-caption{
+		bottom:0px;
+	}
+		.carousel .carousel-caption{
+		text-align: left;
+	}
+		.carousel .carousel-caption h1{
+		font-size:40px;
+	}
+		.Third-section .margin{
+		margin-top:0;
+	} 
+	/**********about-content section**********/
+
+	#about-content-section img{
+	width:350px;
+	height:350px;
+	margin-left:0px;
+	margin-top:50px;
+	}
+
+	/**********services-content section**********/
+
+
+
+}
+
+@media (min-width: 992px) { 
+
+ }
+
+
+@media (min-width: 1200px) {
+
+ }
+
+
+
